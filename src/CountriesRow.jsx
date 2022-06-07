@@ -18,8 +18,8 @@ function countriesRow({country}) {
          
         <h1 className="text-lg font-bold" >{country.name.common}</h1>
         <div className="pt-4 pb-4">
-      <h1  >Capital: {country.capital}</h1>
-      <h1  >Continent: {country.continents}</h1>
+      <h1>Capital: {country.capital}</h1>
+      <h1>Continent: {country.continents}</h1>
       </div>
       </div>
       </div></button>
